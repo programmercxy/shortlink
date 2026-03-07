@@ -1,0 +1,5 @@
+com\example\shortlink\gateway\dto\GatewayErrorResult.class
+com\example\shortlink\gateway\filter\TokenValidateGatewayFilterFactory.class
+com\example\shortlink\gateway\GatewayServiceApplication.class
+com\example\shortlink\gateway\dto\GatewayErrorResult$GatewayErrorResultBuilder.class
+com\example\shortlink\gateway\config\Config.class

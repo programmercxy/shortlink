@@ -1,0 +1,4 @@
+com\example\shortlink\aggregation\config\DemoModeConfiguration.class
+com\example\shortlink\aggregation\AggregationServiceApplication.class
+com\example\shortlink\aggregation\config\DemoModeConfiguration$DemoModeInterceptor.class
+com\example\shortlink\aggregation\config\DemoModeProperties.class
