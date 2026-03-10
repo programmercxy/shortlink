@@ -9,8 +9,10 @@
         <module name="shortlink-admin" />
         <module name="shortlink-gateway" />
         <module name="shortlink-project" />
-        <module name="shortlink-aggregation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shortlink-aggregation" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
